@@ -16,7 +16,7 @@
 4. Be friendly with your self and others and be helpfull.
  For more information visit this link [midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-## Information abot me :
+## Information about me :
 - My name is Esraa shurafat ,I'm an electrical engineering graduate ,I'm 28 years old and  I am looking forward to become a programmer . 
 - [Esraa Alshurafat ](https://github.com/EsraaShurafat)
 
