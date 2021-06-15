@@ -29,3 +29,4 @@
 | ----------- | ----------- |
 |    README.md   | [README.md ](https://esraashurafat.github.io/reading-notes/)       |
 | read01   | [read01](https://esraashurafat.github.io/reading-notes/read01)        |
+|    read02.md   | [read02](https://esraashurafat.github.io/reading-notes/read02) |
