@@ -23,10 +23,12 @@
 
 # The table of contents :
 
-  
 
-|    he file name   | the file's link |
-| ----------- | ----------- |
-|    README.md   | [README.md ](https://esraashurafat.github.io/reading-notes/)       |
-| read01   | [read01](https://esraashurafat.github.io/reading-notes/read01)        |
-|    read02.md   | [read02](https://esraashurafat.github.io/reading-notes/read02) |
+
+
+
+|  he file name  | the file's link |
+| --- | ----------- |
+| README.md | [README.md ](https://esraashurafat.github.io/reading-notes/)   |
+| read01 | [read01](https://esraashurafat.github.io/reading-notes/read01) |
+| read02.md | [read02](https://esraashurafat.github.io/reading-notes/read02) |
