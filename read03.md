@@ -13,32 +13,27 @@ Wireframing is a practice used by UX designers which allows them to define and p
 ## So what is HTML?
 HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.  
 ## Anatomy of an HTML document
->index.html  
+index.html  
 
 ## HTML markup includes special "elements" such as
-><head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li>
+- head  
+- title  
+- body  
+- header   
+- footer  
+- article  
+- section 
 
 ## for mosre info visit  [Basic Html](https://developer.mozilla.org/en-US/docs/Web/HTML)
 # Semantics
 In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
-## Semantics in HTML
-><h1>This is a top level heading</h1>    
- 
-## Semantic elements
-These are some of the roughly 100 semantic elements available:
 
->1.<article>  
-2.<aside>  
-3.<details>  
-4.<figcaption>  
-5.<figure>  
-6.<footer>  
-7.<header>  
-8.<main>  
-9.<mark>  
-10.<nav>  
-11.<section>  
-12.<summary>  
-13.<time> 
- 
+## Semantic elements
+
+1.article  
+2.aside  
+3.details  
+4.figcaption 
+
+
 for more info visit [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
