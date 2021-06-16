@@ -16,7 +16,8 @@ HTML is a markup language that defines the structure of your content. HTML consi
 >index.html  
 
 ## HTML markup includes special "elements" such as
-- <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li>
+><head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li>
+
 ## for mosre info visit  [Basic Html](https://developer.mozilla.org/en-US/docs/Web/HTML)
 # Semantics
 In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
@@ -26,7 +27,7 @@ In programming, Semantics refers to the meaning of a piece of code — for examp
 ## Semantic elements
 These are some of the roughly 100 semantic elements available:
 
-1.<article>  
+>1.<article>  
 2.<aside>  
 3.<details>  
 4.<figcaption>  
@@ -38,5 +39,6 @@ These are some of the roughly 100 semantic elements available:
 10.<nav>  
 11.<section>  
 12.<summary>  
-13.<time>  
+13.<time> 
+ 
 for more info visit [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
