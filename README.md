@@ -24,6 +24,7 @@
 # The table of contents :
 
 
+<<<<<<< HEAD
 
 
 
@@ -32,3 +33,10 @@
 | README.md | [README.md ](https://esraashurafat.github.io/reading-notes/)   |
 | read01 | [read01](https://esraashurafat.github.io/reading-notes/read01) |
 | read02.md | [read02](https://esraashurafat.github.io/reading-notes/read02) |
+=======
+|    he file name   | the file's link |
+| ----------- | ----------- |
+|    README.md   | [README.md ](https://esraashurafat.github.io/reading-notes/)       |
+| read01   | [read01](https://esraashurafat.github.io/reading-notes/read01)        |
+|    read02.md   | [read02](https://esraashurafat.github.io/reading-notes/read02) |
+>>>>>>> 56aab3c3c975b240f0ab7c43b96f9df5f92f98ca
