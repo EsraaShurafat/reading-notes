@@ -1,4 +1,6 @@
 # Expressions and operators
+![mdn](https://cdn.mos.cms.futurecdn.net/aTdmzmFTab5SFem7xxSjjZ.jpg)
+
 ### This chapter describes JavaScript's expressions and operators, including assignment, comparison, arithmetic, bitwise, logical, string, ternary and more.
 
 ### A complete and detailed list of operators and expressions is also available in the reference.
@@ -28,7 +30,8 @@ visit this
 > for ([initialExpression]; [conditionExpression]; [incrementExpression])
   statement  
 
- ###  while statement
+###  while statement
  >while (condition)
   statement  
+
   [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
