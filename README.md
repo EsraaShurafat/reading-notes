@@ -16,6 +16,7 @@
 |  raed04  | [read04](https://esraashurafat.github.io/reading-notes/read04) |
 |  read05  | [read05](https://esraashurafat.github.io/reading-notes/read05) |
 |  read06  | [read06](https://esraashurafat.github.io/reading-notes/read06) |
+<<<<<<< HEAD
 |  read07  | [read07](https://esraashurafat.github.io/reading-notes/read07) |  
 
 # Code 201 Reading Notes :  
@@ -38,3 +39,6 @@
 |  class-13  | [class-13 ]() | 
 |  class-14  | [class-14]() | 
 |  class-15 | [class-15]() | 
+=======
+|  read07  | [read07](https://esraashurafat.github.io/reading-notes/read07) |
+>>>>>>> bf2bd3d8f3b78de5713e678fa9ee3430f77d9ce7
