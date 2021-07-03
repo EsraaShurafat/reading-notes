@@ -23,7 +23,7 @@
 
 |  Assignment  | link |
 | --- | ----------- |
-| class-01 | [Introductory HTML and JavaScript ]()   |
+| class-01 | [Introductory HTML and JavaScript ](https://esraashurafat.github.io/reading-notes/201/class-01)   |
 | class-02 | [class-02 ]()   |
 | class-03 | [class-03]() |
 | class-04| [class-04]() |
