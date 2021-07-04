@@ -61,8 +61,9 @@ h1{
 creating a css file "styleSheet.css" and link it in ehe head section.
 ```
 <link rel="styleSheet" href="styleSheet.css">
-
 ```  
+
+ 
 
 
 # Basic JavaScript Instructions
