@@ -58,10 +58,7 @@ h1{
 
 ```
 - extarnal style :
-creating a css file "styleSheet.css" and link it in ehe head section.
-```
-<link rel="styleSheet" href="styleSheet.css">
-```  
+creating a css file "styleSheet.css" and link it in ehe head section . 
 
  
 
@@ -100,8 +97,7 @@ or
 
 
 
-```
-The for loop has the following syntax:
+```The for loop has the following syntax:
 
 for (statement 1; statement 2; statement 3) {
   // code block to be executed
