@@ -40,24 +40,31 @@
 You can control the space between lines of text, Xindividual letters, and words. Text can also be aligned to the left, right, center, or justified. It can also be indented.
 - You can use pseudo-classes to change the style of an Xelement when a user hovers over or clicks on text, or when they have visited a link.
 ### How do I add CSS? :
-- inline :
-``` 
+- inline :  
+
+```
 <h1 style="color:blue;">heading</h1>
+
 ```
 - internal style :
-``` <head>
+
+```<head>
 <style>
 h1{
     color:blue;
 }
 </style>
 </head>
+
 ```
 - extarnal style :
 creating a css file "styleSheet.css" and link it in ehe head section.
 ```
 <link rel="styleSheet" href="styleSheet.css">
-```
+
+```  
+
+
 # Basic JavaScript Instructions
 ![js](https://coursereport-s3-production.global.ssl.fastly.net/rich/rich_files/rich_files/4783/original/5-javascript-terms-for-beginners.png)
 ### How do I add a script for a web page?
@@ -78,12 +85,19 @@ or
 </script>
 
 
-``` 
+```   
+
+
+
+
 ## JavaScript Loops 
-###### Loops are handy, if you want to run the same code over and over again, each time with a different value.
+#### Loops are handy, if you want to run the same code over and over again, each time with a different value.
 #### Kinds of Loops :
 - for - loops through a block of code a number of times.
-- while - loops through a block of code while a specified condition is true.
+- while - loops through a block of code while a specified condition is true.  
+
+
+
 
 ```
 The for loop has the following syntax:
