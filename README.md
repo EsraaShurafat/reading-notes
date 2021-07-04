@@ -24,7 +24,7 @@
 |  Assignment  | link |
 | --- | ----------- |
 | class-01 | [Introductory HTML and JavaScript ](https://esraashurafat.github.io/reading-notes/201/class-01)   |
-| class-02 | [ HTML Text, CSS Introduction, and Basic JavaScript Instructions]()   |
+| class-02 | [ HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://esraashurafat.github.io/reading-notes/201/class-02)   |
 | class-03 | [class-03]() |
 | class-04| [class-04]() |
 | class-05 | [class-05]() |
