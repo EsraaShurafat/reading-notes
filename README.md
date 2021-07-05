@@ -25,18 +25,18 @@
 | --- | ----------- |
 | class-01 | [Introductory HTML and JavaScript ](https://esraashurafat.github.io/reading-notes/201/class-01)   |
 | class-02 | [ HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://esraashurafat.github.io/reading-notes/201/class-02)   |
-| class-03 | [class-03]() |
-| class-04| [class-04]() |
-| class-05 | [class-05]() |
-|  class-06  | [class-06]() |
-|  class-07  | [class-07]() |
-|  class-08  | [class-08]() |
-|  class-09  | [class-09]() |
-|  class-10  | [class-10]() |   
-|  class-11  | [class-11]() | 
-|  class-12  | [class-12 ]() | 
-|  class-13  | [class-13 ]() | 
-|  class-14  | [class-14]() | 
-|  class-15 | [class-15]() | 
+| class-03 | [HTML Lists, Control Flow with JS, and the CSS Box Model](https://esraashurafat.github.io/reading-notes/201/class-03) |
+| class-04| [class-04](https://esraashurafat.github.io/reading-notes/201/class-04) |
+| class-05 | [class-05](https://esraashurafat.github.io/reading-notes/201/class-05) |
+|  class-06  | [class-06](https://esraashurafat.github.io/reading-notes/201/class-06) |
+|  class-07  | [class-07](https://esraashurafat.github.io/reading-notes/201/class-07) |
+|  class-08  | [class-08](https://esraashurafat.github.io/reading-notes/201/class-08) |
+|  class-09  | [class-09](https://esraashurafat.github.io/reading-notes/201/class-09) |
+|  class-10  | [class-10](https://esraashurafat.github.io/reading-notes/201/class-10) |   
+|  class-11  | [class-11](https://esraashurafat.github.io/reading-notes/201/class-11) | 
+|  class-12  | [class-12 ](https://esraashurafat.github.io/reading-notes/201/class-12) | 
+|  class-13  | [class-13 ](https://esraashurafat.github.io/reading-notes/201/class-13) | 
+|  class-14  | [class-14](https://esraashurafat.github.io/reading-notes/201/class-14) | 
+|  class-15 | [class-15](https://esraashurafat.github.io/reading-notes/201/class-15) | 
 
 

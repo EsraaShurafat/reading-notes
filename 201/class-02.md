@@ -8,28 +8,6 @@
 - Attributes require a name and a value.
 - To learn HTML you need to know what tags are Xavailable for you to use, what they do, and where they can go. 
 
-```html
-<!-- version 5 of html -->
-<!DOCTYPE html>
-<html>
-
-    <head>
-       <title>
-       review
-       </title>
-    </head>
-
-    <body>
-       <header>
-       </header>
-       <main>
-       </main>
-       <footer>
-       </footer>
-    </body>
-</html>
- 
-```
 # Introduction to CSS
 ![css](https://io.bikegremlin.com/wp-content/uploads/2019/11/css-structure.png)
 ### cascading style sheet and its for styling.
@@ -40,24 +18,9 @@
 You can control the space between lines of text, Xindividual letters, and words. Text can also be aligned to the left, right, center, or justified. It can also be indented.
 - You can use pseudo-classes to change the style of an Xelement when a user hovers over or clicks on text, or when they have visited a link.
 ### How do I add CSS? :
-- inline :  
-
-```
-<h1 style="color:blue;">heading</h1>
-
-```
-- internal style :
-
-```<head>
-<style>
-h1{
-    color:blue;
-}
-</style>
-</head>
-
-```
-- extarnal style :
+- inline. 
+- internal style. 
+- extarnal style. 
 creating a css file "styleSheet.css" and link it in ehe head section . 
 
  
