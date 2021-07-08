@@ -28,7 +28,7 @@
 | class-03 | [HTML Lists, Control Flow with JS, and the CSS Box Model](https://esraashurafat.github.io/reading-notes/201/class-03) |
 | class-04| [HTML Links, JS Functions, and Intro to CSS Layout](https://esraashurafat.github.io/reading-notes/201/class-04) |
 | class-05 | [HTML Images; CSS Color & Text](https://esraashurafat.github.io/reading-notes/201/class-05) |
-|  class-06  | [class-06](https://esraashurafat.github.io/reading-notes/201/class-06) |
+|  class-06  | [Problem Domain, Objects, and the DOM](https://esraashurafat.github.io/reading-notes/201/class-06) |
 |  class-07  | [class-07](https://esraashurafat.github.io/reading-notes/201/class-07) |
 |  class-08  | [class-08](https://esraashurafat.github.io/reading-notes/201/class-08) |
 |  class-09  | [class-09](https://esraashurafat.github.io/reading-notes/201/class-09) |
