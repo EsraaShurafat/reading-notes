@@ -30,28 +30,22 @@
 - So far this chapter has focused on finding elements in the DOM tree. The rest of this chapter shows how to access/update element content. Your choice of techniques depends upon what the element contains. 
 ### ACCESS & UPDATE A TEXT NODE WITH NODEVALUE 
 - When you select a text node, you can retrieve or amend the content of it using the node Va 1 ue property. 
-```
-<li id="one"><em>fresh</em> figs</li> 
-```
+
 ### ACCESS & UPDATE TEXT WITH TEXTCONTENT (& INN ERTEXT)
 - The textContent property allows you to collect or update just the text that is in the containing element (and its children). 
- ```
- <li id="one"><em>fresh</em> figs</ li> 
- ```
  ## ADDING ELEMENTS USING DOM MANIPULATION 
  1. CREATE THE ELEMENT 
- ```
- createEl ement () 
- ```
+createEl ement () 
+ 
 
  2. GIVE IT CONTENT 
- ```
+
  createTextNode() 
- ```
+ 
  3. ADD IT TO THE DOM
- ```
+ 
  appendChild() 
- ```
+ 
  ## REMOVING ELEMENTS VIA DOM MANIPULATION 
  1. STORE THE ELEMENT TO BE REMOVED IN A VARIABLE 
  2. STORE T HE PARENT OF THAT  ELEMENT IN A VARIABLE 
@@ -66,7 +60,7 @@
  - An element node can contain multiple text nodes and child elements that are siblings of each other. 
  - In older browsers, implementation of the DOM is inconsistent (and is a popular reason for using jQuery). 
  - Browsers offer tools for viewing the DOM tree .   
- 
+
  
  [https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
