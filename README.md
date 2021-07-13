@@ -31,7 +31,7 @@
 |  class-06  | [Problem Domain, Objects, and the DOM](https://esraashurafat.github.io/reading-notes/201/class-06) |
 |  class-07  | [ Object-Oriented Programming, HTML Tables](https://esraashurafat.github.io/reading-notes/201/class-07) |
 |  class-08  | [CSS Layout](https://esraashurafat.github.io/reading-notes/201/class-08) |
-|  class-09  | [class-09](https://esraashurafat.github.io/reading-notes/201/class-09) |
+|  class-09  | [Forms and JS Events](https://esraashurafat.github.io/reading-notes/201/class-09) |
 |  class-10  | [class-10](https://esraashurafat.github.io/reading-notes/201/class-10) |   
 |  class-11  | [class-11](https://esraashurafat.github.io/reading-notes/201/class-11) | 
 |  class-12  | [class-12 ](https://esraashurafat.github.io/reading-notes/201/class-12) | 
