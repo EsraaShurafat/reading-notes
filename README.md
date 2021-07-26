@@ -35,7 +35,7 @@
 |  class-10  | [JS Debugging](https://esraashurafat.github.io/reading-notes/201/class-10) |   
 |  class-11  | [ Audio, Video, Images](https://esraashurafat.github.io/reading-notes/201/class-11) | 
 |  class-12  | [ Docs for the HTML <canvas> Element & Chart.js ](https://esraashurafat.github.io/reading-notes/201/class-12) | 
-|  class-13  | [class-13 ](https://esraashurafat.github.io/reading-notes/201/class-13) | 
+|  class-13  | [Local Storage ](https://esraashurafat.github.io/reading-notes/201/class-13) | 
 |  class-14  | [class-14](https://esraashurafat.github.io/reading-notes/201/class-14) | 
 |  class-15 | [class-15](https://esraashurafat.github.io/reading-notes/201/class-15) | 
 
