@@ -43,4 +43,27 @@
 
 
 
+# Code 301 Reading Notes : 
+
+|  Assignment  | link |
+| --- | ----------- |
+| class-01 | [class-01](https://esraashurafat.github.io/reading-notes/301/class-01)   |
+| class-02 | [class-02](https://esraashurafat.github.io/reading-notes/301/class-02)   |
+| class-03 | [class-03](https://esraashurafat.github.io/reading-notes/301/class-03) |
+| class-04| [class-04](https://esraashurafat.github.io/reading-notes/301/class-04) |
+| class-05 | [class-05](https://esraashurafat.github.io/reading-notes/301/class-05)|
+|  class-06  | [class-06](https://esraashurafat.github.io/reading-notes/301/class-06) |
+|  class-07  | [class-07](https://esraashurafat.github.io/reading-notes/301/class-07) |
+|  class-08  | [class-08](https://esraashurafat.github.io/reading-notes/301/class-08) |
+|  class-09  | [class-09](https://esraashurafat.github.io/reading-notes/301/class-09) |
+|  class-10  | [class-10](https://esraashurafat.github.io/reading-notes/301/class-10) |   
+|  class-11  | [class-11](https://esraashurafat.github.io/reading-notes/301/class-11) | 
+|  class-12  | [class-12](https://esraashurafat.github.io/reading-notes/301/class-12) | 
+|  class-13  | [class-13](https://esraashurafat.github.io/reading-notes/301/class-13) | 
+|  class-14 | [class-14](https://esraashurafat.github.io/reading-notes/301/class-14) |  
+|  class-15 | [class-15](https://esraashurafat.github.io/reading-notes/301/class-15) | 
+
+
+
+
 
