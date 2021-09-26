@@ -31,3 +31,10 @@
 - [RegExr](https://regexr.com/)
 - [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 - [Regex 101](https://regex101.com/)
+## Things I want to know more about
+- [RegExr](https://regexr.com/)
+- [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+- [Regex 101](https://regex101.com/)
+
+
+
